@@ -1,2 +1,32 @@
 # Probability-Notebooks
-University Probability Class Notebooks
+## University Probability Class Notebooks
+
+### Lesson 05
+- Introduction to pandas
+
+### Lesson 06
+- Exploring Data with pandas
+
+### Lesson 07
+- Advanced Pandas
+
+## Lesson 09
+- EDA Line Charts
+- EDA Multiple Charts
+
+### Lesson 10
+- Bar plots and scatter
+
+### Lesson 11
+- Histogram and Boxplot
+### Lesson 12
+- Sampling
+
+### Lesson 13
+- Variables; Scale of measurements
+
+### Lesson 14
+- Frequency Distributions
+
+### Lesson 15
+- Bar plots, pie charts and histograms; Comparing Frequency Distributions
