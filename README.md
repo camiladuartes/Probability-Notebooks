@@ -30,3 +30,9 @@
 
 ### Lesson 15
 - Bar plots, pie charts and histograms; Comparing Frequency Distributions
+
+### Lesson 16
+- The mean
+
+### Lesson 17
+- The Weighted Mean and the Median
