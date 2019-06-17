@@ -36,3 +36,12 @@
 
 ### Lesson 17
 - The Weighted Mean and the Median
+
+### Lesson 18
+- The mode
+
+### Lesson 19
+- Measures of Variability
+
+### Lesson 20
+- Zscores
