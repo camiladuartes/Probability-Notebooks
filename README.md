@@ -45,3 +45,12 @@
 
 ### Lesson 20
 - Zscores
+
+### Lesson 21
+- Covariation & Correlation
+
+### Lesson 22
+- Estimating Probabilities
+
+### Lesson 23
+- Conditional probability
